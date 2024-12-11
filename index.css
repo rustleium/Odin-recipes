@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+.recipe-card {
+  background-color: rgb(182, 182, 255);
+  width: 400px;
+  height: 200px;
+  margin: 200px auto;
+  padding: 30px 50px 50px 80px;
+  border: 2px solid indianred;
+}
+
+.header {
+  color: #a80000;
+  margin-bottom: 20px;
+}
+
+li {
+  padding-bottom: 6px;
+  color: black;
+  font-size: 18px;
+}
